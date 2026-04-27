@@ -1,0 +1,12 @@
+.claude/
+*.mif
+!data.mif
+quartus/*
+!quartus/sc_top.sdc
+modelsim/*
+!modelsim/golden.txt
+!modelsim/data.hex
+!modelsim/program.hex
+assembler/*
+!assembler/instructions.txt
+!assembler/assembler.py
